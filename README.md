@@ -61,5 +61,5 @@ Blood-Bank-Management-System/
 | Member | Part |
 |---|---|
 | P. Sri Pregna | ER diagram, relational model, normalization, DDL (`01_create_tables.sql`) |
-| N. Yoshitha | Sample data, DML and queries (`02_insert_data.sql`, `03_queries.sql`) |
-| S. V. Nainika | Views, triggers, procedures, cursors, sample queries (`04`, `05`, `06`) |
+| N. Yoshitha |Views, triggers, procedures, cursors, sample queries (`04`, `05`, `06`)  |
+| S. V. Nainika |DDL,Sample data, DML and queries ( `01_create_tables.sql`,`02_insert_data.sql`, `03_queries.sql`) |
